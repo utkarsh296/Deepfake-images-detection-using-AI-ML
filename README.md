@@ -1,1 +1,2 @@
-# Deepfake-images-detection-using-AI-ML
+# Deepfake-images-detection
+# using AI/ML
